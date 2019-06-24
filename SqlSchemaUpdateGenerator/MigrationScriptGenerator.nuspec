@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Harry McIntyre</authors>
+    <projectUrl>https://github.com/mcintyre321/MigrationScriptGenerator</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <tags>SQL Diff Migration</tags>
+  </metadata>
+  <files>
+    <file src="bin\Release\*.dll" target="lib\net40" /> 
+    <file src="bin\Release\*.pdb" target="lib\net40" /> 
+  </files>
+  
+</package>
